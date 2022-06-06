@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-06-06T09:44:40.116Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="G-IZvdQxtgxtXLjk6z1b" version="19.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-06T09:45:59.076Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zjNpcZWiUyL6KYbJCyNb" version="19.0.0" type="github">
   <diagram id="e7zzN5IPQSMmDOYIE2wS" name="Page-1">
-    <mxGraphModel dx="2645" dy="1195" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2645" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,82 +137,11 @@
         <mxCell id="L4XkyH18cuY4Jyip78m7-38" value="Sentiment &amp;amp; Keyword Extraction&lt;br style=&quot;font-size: 13px;&quot;&gt;Algorithm" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="100" y="467" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-54" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="900" width="900" height="320" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-57" target="L4XkyH18cuY4Jyip78m7-64">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-57" target="L4XkyH18cuY4Jyip78m7-66">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-57" value="Paragraphs with&lt;br style=&quot;font-size: 12px;&quot;&gt;Topics" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-730" y="1020" width="88" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-64" target="L4XkyH18cuY4Jyip78m7-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-64" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;Vadersentiment&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Algorithm&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="920" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-66" target="L4XkyH18cuY4Jyip78m7-69">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-66" target="L4XkyH18cuY4Jyip78m7-80">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-66" target="L4XkyH18cuY4Jyip78m7-74">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-66" value="Spacy NLP&lt;br style=&quot;font-size: 12px;&quot;&gt;Pipeline" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="1020" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-69" target="L4XkyH18cuY4Jyip78m7-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-69" value="TextRank Keyword Extraction Algorithm&lt;br style=&quot;font-size: 12px;&quot;&gt;with/without Verb" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="980" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-74" target="L4XkyH18cuY4Jyip78m7-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-74" value="POS, DEP, &lt;br style=&quot;font-size: 12px;&quot;&gt;Noun Chunks&lt;br style=&quot;font-size: 12px;&quot;&gt;Extraction" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-590" y="1140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-80" target="L4XkyH18cuY4Jyip78m7-82">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-80" value="&lt;span style=&quot;font-size: 12px;&quot;&gt;SGRank Keyword Extraction Algorithm&lt;/span&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;with/without Verb&lt;/span&gt;" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-420" y="1070" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-82" target="L4XkyH18cuY4Jyip78m7-101">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-82" value="Heuristics to select good keywords from scores" style="whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-240" y="1030" width="90" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="L4XkyH18cuY4Jyip78m7-128" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=13;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-99" target="L4XkyH18cuY4Jyip78m7-127">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="L4XkyH18cuY4Jyip78m7-99" value="Keyword Aggregation Algorithm" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="260" y="467" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=classic;endFill=1;fontStyle=1;fontSize=12;" edge="1" parent="1" source="L4XkyH18cuY4Jyip78m7-101" target="L4XkyH18cuY4Jyip78m7-105">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-107" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1;fontSize=12;" vertex="1" connectable="0" parent="L4XkyH18cuY4Jyip78m7-106">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-101" value="Is &lt;br&gt;keyword&lt;br style=&quot;font-size: 12px;&quot;&gt;ngram &amp;gt; 10&lt;br&gt;?" style="rhombus;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="-120" y="1015" width="100" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-105" value="Concat" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontStyle=1;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="30" y="1030" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="L4XkyH18cuY4Jyip78m7-111" value="&lt;h1 style=&quot;font-size: 28px;&quot;&gt;Keyword Extraction&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=1;fontSize=28;" vertex="1" parent="1">
-          <mxGeometry x="-427.5" y="900" width="275" height="40" as="geometry" />
         </mxCell>
         <mxCell id="L4XkyH18cuY4Jyip78m7-113" value="Keyword Table" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="590" y="410" width="200" height="150" as="geometry">
