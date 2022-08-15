@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-08-15T06:57:49.095Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="NfwZHneQG7bsBYjhsYiM" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-15T07:31:26.949Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="8bLg2LkGBDdHf3Sinra1" version="20.2.3" type="github">
   <diagram id="Ec9cz7oOpygGzUXF83HS" name="Page-1">
     <mxGraphModel dx="899" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SmEY_esOffVG3qo-T8_t-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SmEY_esOffVG3qo-T8_t-11" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="30" y="180" width="710" height="120" as="geometry" />
         </mxCell>
         <mxCell id="SmEY_esOffVG3qo-T8_t-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SmEY_esOffVG3qo-T8_t-1" target="SmEY_esOffVG3qo-T8_t-2">
@@ -36,6 +36,39 @@
         </mxCell>
         <mxCell id="SmEY_esOffVG3qo-T8_t-12" value="&lt;b&gt;Sequential Execution while Maintaining Truth Values from previous Logic (no overwriting)&lt;/b&gt;" style="text;html=1;strokeColor=#82b366;fillColor=#d5e8d4;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="120" y="180" width="530" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-17" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="330" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SmEY_esOffVG3qo-T8_t-19" target="SmEY_esOffVG3qo-T8_t-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-19" value="Filter Low form of Grammar" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="400" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SmEY_esOffVG3qo-T8_t-21" target="SmEY_esOffVG3qo-T8_t-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-21" value="Filter irrelevant Financial Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="430" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="SmEY_esOffVG3qo-T8_t-23" target="SmEY_esOffVG3qo-T8_t-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-23" value="Filter based on Word Count" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="460" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="SmEY_esOffVG3qo-T8_t-25" target="SmEY_esOffVG3qo-T8_t-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-25" value="Filter based on Relevancy" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="490" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-26" value="Cleaned Data" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="430" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SmEY_esOffVG3qo-T8_t-27" value="&lt;b&gt;Efficient Parallel Execution that Overwrites Trust values of Previous Logic&lt;/b&gt;" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="330" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
