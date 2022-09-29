@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-29T11:52:31.481Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="_612TzY57Uclxjud9wQY" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-29T11:59:22.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36" etag="4NauNpyLaJik9FZOOLNK" version="20.3.0" type="github">
   <diagram id="jV4GA8pdPoqppfBirLHo" name="Page-1">
     <mxGraphModel dx="1493" dy="791" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-4" value="Trust&lt;br&gt;Lexicon&lt;br&gt;Phrases" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="270" y="490" width="100" height="60" as="geometry" />
+          <mxGeometry x="270" y="450" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-5" target="I7LM8ZxTbfaNqpuhrn2D-17">
           <mxGeometry relative="1" as="geometry" />
@@ -25,13 +25,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-6" value="Trust &lt;br&gt;Statement&lt;br&gt;Pilot" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="12" y="480" width="88" height="80" as="geometry" />
+          <mxGeometry x="12" y="440" width="88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-7" target="I7LM8ZxTbfaNqpuhrn2D-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-7" value="Trust &lt;br&gt;BIO&lt;br&gt;Pilot" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="140" y="480" width="88" height="80" as="geometry" />
+          <mxGeometry x="140" y="440" width="88" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-12" target="I7LM8ZxTbfaNqpuhrn2D-5">
           <mxGeometry relative="1" as="geometry" />
@@ -44,23 +44,29 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="I7LM8ZxTbfaNqpuhrn2D-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-12" target="I7LM8ZxTbfaNqpuhrn2D-29">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="54" y="565" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-12" value="&lt;span&gt;Sentence&lt;br&gt;Level&lt;br&gt;Relevnacy&lt;br&gt;Table&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="12" y="600" width="84" height="70" as="geometry" />
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-16" value="Similarity/&lt;br&gt;Span Cagtegorization" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="290" y="620" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I7LM8ZxTbfaNqpuhrn2D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.447;exitY=-0.017;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-21" target="I7LM8ZxTbfaNqpuhrn2D-4">
+        <mxCell id="I7LM8ZxTbfaNqpuhrn2D-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.447;exitY=-0.017;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;fontStyle=1" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-21" target="I7LM8ZxTbfaNqpuhrn2D-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="704" y="530" />
-              <mxPoint x="520" y="530" />
+              <mxPoint x="874" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-26" value="Compare Human Approval Between Similar and High Relevant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="I7LM8ZxTbfaNqpuhrn2D-19">
           <mxGeometry x="0.1029" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint y="3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-22" value="Sugesstion&lt;br&gt;to&amp;nbsp;&lt;br&gt;Full Labelling&lt;br&gt;Cycle" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontStyle=1" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-17" target="I7LM8ZxTbfaNqpuhrn2D-21">
@@ -74,6 +80,12 @@
         </mxCell>
         <mxCell id="I7LM8ZxTbfaNqpuhrn2D-21" value="Human &lt;br&gt;Validation" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="820" y="590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I7LM8ZxTbfaNqpuhrn2D-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.383;entryY=1.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I7LM8ZxTbfaNqpuhrn2D-29" target="I7LM8ZxTbfaNqpuhrn2D-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I7LM8ZxTbfaNqpuhrn2D-29" value="&lt;b&gt;ETM to Sector&lt;br&gt;Mapping&lt;/b&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="108" y="540" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
